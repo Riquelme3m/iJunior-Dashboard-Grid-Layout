@@ -58,11 +58,10 @@ h2{
     border:none;
     padding:0.1rem;
     position: absolute;
-    top: 8%;
-    left:4.2rem;
     cursor: pointer;
     font-size: 0.7rem;
     width:1.5rem;
+    inset: 5rem -0.75rem auto auto;
     
 
 }
